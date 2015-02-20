@@ -1,6 +1,6 @@
 # JavaScript Style Guide
 
-This is an introduction. Insert introduction here.
+This guide is based on the [Node.js Style Guide](https://github.com/felixge/node-style-guide) by [Felix Geisendörfer](http://felixge.de/).
 
 ## Table of contents
 
